@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sgopalani12
 - 👀 I’m interested in ... learning to code
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... python, sql
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... sgopalani12@gmail.com
 
